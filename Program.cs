@@ -5,7 +5,9 @@ using System.IO;
 using LXComm;
 
 namespace LXF
-{
+{s
+sfsdfasdfdsfsd
+sdfsdf
     static class Program
     {
         /// <summary>
