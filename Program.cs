@@ -3,8 +3,8 @@ using System.Collections.Generic;
 using System.Windows.Forms;
 using System.IO;
 using LXComm;
-
-namespace LXF
+234234
+namespace LXF2
 {s
 sfsdfasdfdsfsd
 sdfsdf
@@ -42,7 +42,7 @@ strela tag
             {
                 StreamWriter sw = new StreamWriter(@"\"+Root.Instance.Path+@"\log.txt", true);
               
-                sw.WriteLine("///////////////////////////////////////////////////////////////");
+							sw.WriteLine("///////////////////////////////////////////////////////////////");
                 sw.Write(napaka.Message);
                 sw.WriteLine("---------------->");
                 sw.Write(napaka.ToString());
